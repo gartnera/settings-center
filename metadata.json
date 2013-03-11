@@ -1,0 +1,10 @@
+{
+  "description": "Settings shortcuts : gnome-tweak-tool, dconf-editor, gconf-editor, gnome-session-properties, gnome-shell-extension-prefs, seahorse and nvidia-settings.\nYou can add your own\n\n Created by: Xes", 
+  "name": "SettingsCenter", 
+  "shell-version": [
+    "3.6.2"
+  ], 
+  "url": "https://github.com/gartnera/settings-center", 
+  "uuid": "SettingsCenter@gartnera.github.com", 
+  "version": 5
+}
