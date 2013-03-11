@@ -1,5 +1,5 @@
 {
-  "description": "Settings shortcuts : gnome-tweak-tool, dconf-editor, gconf-editor, gnome-session-properties, gnome-shell-extension-prefs, seahorse and nvidia-settings.\nYou can add your own\nShould work with Gnome Shell versions up to 3.6.2\n\n Created by Xes", 
+  "description": "Settings shortcuts : gnome-tweak-tool, dconf-editor, gconf-editor, gnome-session-properties, gnome-shell-extension-prefs, seahorse and nvidia-settings. Updated for shell 3.6\nYou can add your own\nShould work with Gnome Shell versions up to 3.6.2\n\n Created by Xes", 
   "name": "Settings Center", 
   "shell-version": [
     "3.6.2"
